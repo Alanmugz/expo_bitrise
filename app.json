@@ -10,7 +10,7 @@
       "package": "expo_bitrise.com"
     },
     "ios": {
-      "bundleIdentifier": "expo_bitrise.com"
+      "bundleIdentifier": "expo.bitrise.com"
     }
   },
   "name": "expo_bitrise"
