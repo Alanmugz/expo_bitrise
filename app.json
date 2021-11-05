@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expo_bitrise",
+    "slug": "expo_bitrise",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expo_bitrise"
+}
