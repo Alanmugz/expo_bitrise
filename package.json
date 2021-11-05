@@ -23,5 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "name": "expo_bitrise",
+  "version": "1.0.0"
 }
