@@ -8,6 +8,9 @@
     ],
     "android": {
       "package": "expo_bitrise.com"
+    },
+    "ios": {
+      "bundleIdentifier": "expo_bitrise.com"
     }
   },
   "name": "expo_bitrise"
